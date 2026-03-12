@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently finishing the game "Underfind" that was started during a hackclub gamejam<br>I am currently learning godot<br>I am a student at INFIS
+Currently finishing the game "Underfind" that was started during a hackclub gamejam<br>Learning godot<br>Student at INFIS
 
 
 ## 🌐 Socials:
